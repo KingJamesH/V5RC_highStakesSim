@@ -15,3 +15,7 @@ This was just for fun. You are able to move around using the arrow keys or WASD.
 https://www.path.jerryio.com for all of the field images and mobile goal images
 
 the Fusion 360 V5RC CAD library for the robot picture
+
+## Example images
+![Screenshot 2024-11-27 at 11 15 43 PM](https://github.com/user-attachments/assets/d77936f8-7f6f-45ca-baaf-4ac340e1837e)
+![Screenshot 2024-11-27 at 11 19 00 PM](https://github.com/user-attachments/assets/07f4a41b-8cf6-464a-ac90-e4401ce60476)
