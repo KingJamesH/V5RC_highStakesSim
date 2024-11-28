@@ -2,6 +2,7 @@
 This is a simulator I made using Pygame because I was bored. It's main purpose is for planning out auton routes.
 
 Note: Considering this was made on my computer, if you download it you will have to change the file paths in #main.py
+Note #2: This project was not connected to github until it was completed
 
 
 ## Auton
@@ -21,3 +22,4 @@ the Fusion 360 V5RC CAD library for the robot picture
 ## Example images
 ![Screenshot 2024-11-27 at 11 15 43 PM](https://github.com/user-attachments/assets/d77936f8-7f6f-45ca-baaf-4ac340e1837e)
 ![Screenshot 2024-11-27 at 11 19 00 PM](https://github.com/user-attachments/assets/07f4a41b-8cf6-464a-ac90-e4401ce60476)
+![Screenshot 2024-11-27 at 11 20 59 PM](https://github.com/user-attachments/assets/e8cadb25-9981-4bb7-a49b-a4079235502f)
