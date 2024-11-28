@@ -1,5 +1,5 @@
 # V5RC High Stakes simulator
-This is a simulator I made using Pygame for the 2024-2025 Vex V5RC game High Stakes. Its main purpose is to plan auton routes.
+This is a simulator I made using Pygame for the 2024-2025 VEX V5RC game High Stakes. Its main purpose is to plan auton routes.
 
 Note: Considering this was made on my computer, if you download it you will have to change the file paths in #main.py
 
@@ -17,7 +17,7 @@ This was just for fun. You are able to move around using the arrow keys or WASD.
 ## Credits
 https://www.path.jerryio.com for all of the field images and mobile goal images
 
-the Fusion 360 V5RC CAD library for the robot picture
+The Fusion 360 V5RC CAD library for the robot picture (cadded by me)
 
 
 ## Example images
