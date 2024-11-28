@@ -2,6 +2,7 @@
 This is a simulator I made using Pygame for the 2024-2025 Vex V5RC game High Stakes. Its main purpose is to plan auton routes.
 
 Note: Considering this was made on my computer, if you download it you will have to change the file paths in #main.py
+
 Note #2: This project was not connected to GitHub until it was completed
 
 
